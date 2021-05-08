@@ -29,19 +29,6 @@ $(document).ready(function(){
   else if($(".markdown-body h2").length > 1) $(".markdown-body h2").each(collectHeaders)
   else if($(".markdown-body h3").length > 1) $(".markdown-body h3").each(collectHeaders)
 
-  console.log('This would be the script.js file.');
-  var downloads = document.getElementById("downloads");
-  downloads.parentNode.removeChild(downloads);
-  var headerContainer = document.getElementById("a-title").parentNode;
-  for (var child of headerContainer.children)
-  {
-    if (child.tagName == "H2")
-    {
-      child.remove();
-      break;
-    }
-  }
-  
   $(window).scroll(function(){
     if(headings.length==0) return true;
     var scrolltop = $(window).scrollTop() || 0;
