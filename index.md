@@ -5,10 +5,9 @@
 
 ### Interests
  - I like algorithms, and have participated in the [ACM-ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) Asia Regionals twice.
- - I also love to develop extensible and maintainable software applications and have [open-sourced a few of them](https://github.com/Anmol-Singh-Jaggi?tab=repositories).
- - Apart from this, in my free time, I like to browse [StackOverflow](http://stackoverflow.com/users/1925388/anmol-singh-jaggi) and answer any questions which I can.
- - I maintain a [blog](https://anmolsinghjaggi.wordpress.com/) in which I post content about any new interesting things which I encounter.
- - I also like to play football.
+ - I love programming on side projects as a hobby and have [open-sourced most of them](https://github.com/Anmol-Singh-Jaggi?tab=repositories).
+ - I also try to answer interesting programming questions on [StackOverflow](http://stackoverflow.com/users/1925388/anmol-singh-jaggi) in my free time.
+ - I maintain a [blog](https://anmolsinghjaggi.com/) as well.
 
 ### Portfolio
  - [Github](https://github.com/Anmol-Singh-Jaggi)
