@@ -12,13 +12,7 @@
 ### Portfolio
  - [Github](https://github.com/Anmol-Singh-Jaggi)
  - [Resume](https://drive.google.com/file/d/0Bw239KLrN7zoVkZ5NUsxaV9FQ00/view?usp=sharing)
-
-### Social
- - [Twitter](https://twitter.com/anmolsinghjaggi)
- - [Facebook](https://www.facebook.com/The.Knight.Coder)
  - [Linkedin](https://in.linkedin.com/in/anmolsinghjaggi)
- - [Quora](https://www.quora.com/Anmol-Singh-Jaggi)
- - [Blog](https://anmolsinghjaggi.wordpress.com/)
 
 ### Contact
  - [Email](http://goo.gl/oVVZ2y)
