@@ -11,7 +11,7 @@
 
 ### Portfolio
  - [Github](https://github.com/Anmol-Singh-Jaggi)
- - [Resume](https://drive.google.com/file/d/0Bw239KLrN7zoVkZ5NUsxaV9FQ00/view?usp=sharing)
+ - [Resume](https://drive.google.com/file/d/0Bw239KLrN7zoWFY1YTBFX2tpRXM/view?usp=sharing)
  - [Linkedin](https://in.linkedin.com/in/anmolsinghjaggi)
 
 ### Contact
