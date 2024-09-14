@@ -15,4 +15,4 @@
  - [Linkedin](https://in.linkedin.com/in/anmolsinghjaggi)
 
 ### Contact
- - [Email](http://goo.gl/oVVZ2y)
+ - Please feel free to contact me on Linkedin, or at the email address mentioned in my resume.
